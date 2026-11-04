@@ -42,7 +42,7 @@ User Question → Embed Query → Top-K Retrieval ───────┘
 
 > Adjust this table to match what you actually used.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
